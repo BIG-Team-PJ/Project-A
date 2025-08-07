@@ -1,0 +1,45 @@
+<!-- 
+project-root/
+│
+├── FN/                          # 프론트엔드 (Front-end)
+│   ├── public/                  # 정적 파일 (favicon, robots.txt 등)
+│   ├── src/
+│   │   ├── assets/              # 이미지, 아이콘, 폰트 등
+│   │   │   ├── images/
+│   │   │   ├── icons/
+│   │   │   ├── logos/
+│   │   │   ├── fonts/
+│   │   │   └── videos/
+│   │   ├── components/          # 공통 컴포넌트
+│   │   ├── pages/               # 각 페이지별 컴포넌트
+│   │   ├── layouts/             # 공통 레이아웃
+│   │   ├── hooks/               # 커스텀 훅
+│   │   ├── utils/               # 유틸 함수
+│   │   ├── services/            # API 호출 로직 (axios 등)
+│   │   ├── store/               # 상태관리 (Redux, Zustand 등)
+│   │   ├── routes/              # 라우터 설정
+│   │   └── App.tsx              # 진입점
+│   ├── .env                     # 환경변수
+│   └── package.json
+│
+├── BN/                          # 백엔드 (Back-end)
+│   ├── src/
+│   │   ├── controllers/         # 요청 핸들러
+│   │   ├── routes/              # 라우터
+│   │   ├── services/            # 비즈니스 로직
+│   │   ├── models/              # DB 모델 정의
+│   │   ├── middlewares/        # 인증, 에러 핸들링 등
+│   │   ├── utils/               # 유틸 함수
+│   │   ├── config/              # 설정 파일 (DB, 환경설정 등)
+│   │   └── index.js             # 진입점
+│   ├── uploads/                 # 이미지, 파일 업로드 저장소
+│   ├── .env                     # 백엔드용 환경변수
+│   └── package.json
+│
+└── README.md
+ 
+
+
+
+
+-->
