@@ -4,7 +4,7 @@
 <!-- 글자 -->
 검정색 글자 : #1D1D1D
 회색 글자 : #75757A
-파란색 글자 : #1774D1
+파란색 글자 : #4444FF
 
 폰트 : 한국어/ 영어/ 나머지
 font-family: 'Noto Sans KR', 'Inter', sans-serif;
